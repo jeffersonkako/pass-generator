@@ -15,7 +15,6 @@ export function Home() {
     for (let i = 0, n = charset.length; i < size; i++) {
       pass += charset.charAt(Math.floor(Math.random() * n));
     }
-    console.log(pass);
     setPass(pass);
     setMondalVisible(true);
   }
