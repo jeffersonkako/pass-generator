@@ -1,5 +1,13 @@
 # Pass-Generator
 
+![image](https://github.com/jeffersonkako/pass-generator/assets/104142117/cf6bbe2e-f0ad-4223-84a3-4ef6db83a14d)
+![image](https://github.com/jeffersonkako/pass-generator/assets/104142117/633d9b50-8d79-420e-b917-546dd5adbee8)
+![image](https://github.com/jeffersonkako/pass-generator/assets/104142117/d6afd914-7ee5-46a6-bfcc-a4fc20806e8c)
+![image](https://github.com/jeffersonkako/pass-generator/assets/104142117/3c55c49d-a2f9-4c0f-a5ad-36e0116d4d1a)
+
+
+
+
 ## Descrição
 Pass-Generator é um aplicativo desenvolvido em React Native com Expo, destinado à geração de senhas seguras. O aplicativo permite aos usuários criar senhas com base em critérios específicos.
 
